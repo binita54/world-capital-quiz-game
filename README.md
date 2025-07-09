@@ -27,7 +27,7 @@ A fun and interactive web-based quiz game to test your knowledge of world capita
 ---
 
 ## 📂 Project Structure
-
+```bash
 world-capital-quiz-game/
 ├── index.js # Main Express server with API routes and DB logic
 ├── public/ # Frontend files (HTML, CSS, client-side JS)
@@ -35,7 +35,7 @@ world-capital-quiz-game/
 ├── db/ # SQL scripts or migration files 
 ├── views/ 
 └── README.md
-
+```
 
 ---
 
@@ -95,6 +95,7 @@ http://localhost:3000
 -Managing user sessions and score submissions
 -Full-stack integration of frontend and backend
 
+For the visual proof go through the screeshot folder
 
 📄 License
 This project is open-source and available under the MIT License.
